@@ -1,6 +1,5 @@
 import PyPDF2
 
-
 pdf=['Supervised_Learning.pdf','Unsupervised Learning.pdf']
 combo = PyPDF2.PdfFileMerger()
 
